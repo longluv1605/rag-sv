@@ -1,0 +1,957 @@
+[
+  {
+    "question": "Hội nghị giao ban công tác quý IV năm 2016 của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội diễn ra vào ngày nào?",
+    "answer": "Ngày 14/12/2016.",
+    "llm_answer": "14 tháng 12 năm 2016\n"
+  },
+  {
+    "question": "Ai chủ trì hội nghị giao ban công tác quý IV năm 2016 của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh.",
+    "llm_answer": "Hiệu trưởng Đỗ Tuấn Minh.\n"
+  },
+  {
+    "question": "Những ai được nhận Huân chương Lao động hạng Ba tại hội nghị?",
+    "answer": "TS. Đỗ Tuấn Minh và PGS. TS. Ngô Minh Thủy.",
+    "llm_answer": "TS. Đỗ Tuấn Minh, PGS. TS. Ngô Minh Thủy và Trường Đại học Kinh tế ĐHQGHN được nhận Huân chương Lao động hạng Ba.\n"
+  },
+  {
+    "question": "Những ai được nhận Bằng khen của Nhà nước tại hội nghị?",
+    "answer": "ThS. Lê Thị Khánh Trang, ThS. Nguyễn Thị Hải Yến và TS. Trần Thị Thu Hiền.",
+    "llm_answer": "ThS. Lê Thị Khánh Trang, ThS. Nguyễn Thị Hải Yến và TS. Trần Thị Thu Hiền.\n"
+  },
+  {
+    "question": "ThS. Nguyễn Tuấn Anh được bổ nhiệm chức vụ gì tại hội nghị?",
+    "answer": "Phó Trưởng khoa SPTA.",
+    "llm_answer": "Phó Trưởng khoa SPTA\n"
+  },
+  {
+    "question": "Hội nghị rà soát hoạt động quý IV/2016 về những lĩnh vực nào?",
+    "answer": "Tổ chức cán bộ; Đào tạo, quản lý HSSV; Thanh tra, Khảo thí; Khoa học Công nghệ, Hợp tác và Phát triển, Công nghệ thông tin; Đảm bảo chất lượng; Kế hoạch Tài chính, Cơ sở vật chất; Chính trị, tư tưởng, công tác Đảng, hoạt động đoàn thể và nhiệm vụ theo kết luận Ban Giám đốc.",
+    "llm_answer": "Tổ chức cán bộ, Đào tạo, Quản lý HSSV, Thanh tra, Khảo thí, Khoa học Công nghệ, Hợp tác và Phát triển, Công nghệ thông tin, Đảm bảo chất lượng, Kế hoạch Tài chính, Cơ sở vật chất, Chính trị tư tưởng, Công tác Đảng và hoạt động đoàn thể.\n"
+  },
+  {
+    "question": "Năm học nào nhà trường có kế hoạch lấy ý kiến phản hồi về hoạt động giảng dạy?",
+    "answer": "Năm học 2017-2018.",
+    "llm_answer": "Năm học 2017-2018.\n"
+  },
+  {
+    "question": "Hoạt động đảm bảo chất lượng tại trường đóng vai trò gì?",
+    "answer": "Hoạt động trọng tâm, nâng cao chất lượng giáo dục và vị thế nhà trường.",
+    "llm_answer": "Tổ chức, điều phối kiểm định và đảm bảo chất lượng, đánh giá chất lượng giáo dục và khảo thí của trường.\n"
+  },
+  {
+    "question": "Cơ quan nào chịu trách nhiệm về hoạt động đảm bảo chất lượng của trường?",
+    "answer": "Hội đồng Đảm bảo chất lượng ĐHQG Hà Nội và Viện Đảm bảo chất lượng giáo dục (INFEQA).",
+    "llm_answer": "Trung tâm Đảm bảo Chất lượng Giáo dục.\n"
+  },
+  {
+    "question": "Trường có kế hoạch đánh giá chất lượng theo tiêu chuẩn nào?",
+    "answer": "Tiêu chuẩn của Bộ GD&ĐT và các tổ chức kiểm định quốc tế.",
+    "llm_answer": "Trường đánh giá chất lượng theo:\n- Bộ tiêu chí đánh giá 12 mục nội dung.\n- Bộ tiêu chuẩn Kiểm định chất lượng đơn vị đào tạo của ĐHQGHN (năm học 2005-2006).\n"
+  },
+  {
+    "question": "Hình thức khảo sát ý kiến sinh viên về chất lượng giảng dạy tại Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội là gì?",
+    "answer": "Khảo sát trực tuyến trên hệ thống.",
+    "llm_answer": "Sinh viên trả lời trực tuyến.\n"
+  },
+  {
+    "question": "Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội đã hoàn thành bao nhiêu báo cáo tự đánh giá chương trình đào tạo?",
+    "answer": "4 báo cáo, về ngành Ngôn ngữ Trung Quốc, Hàn Quốc, Nhật Bản và Pháp.",
+    "llm_answer": "Thông tin cung cấp không đủ để xác định số lượng báo cáo tự đánh giá chương trình đào tạo đã hoàn thành.\n"
+  },
+  {
+    "question": "Báo cáo tự đánh giá bao gồm những nội dung gì?",
+    "answer": "Hiện trạng, điểm mạnh, điểm yếu và kế hoạch cải tiến chất lượng.",
+    "llm_answer": "Báo cáo tự đánh giá phục vụ kiểm định chất lượng (2021-2026); thẩm định Báo cáo tự đánh giá CTĐT Ngôn ngữ Nga.\n"
+  },
+  {
+    "question": "TS. Nguyễn Thị Linh Yên tốt nghiệp Tiến sĩ năm nào và chuyên ngành gì?",
+    "answer": "Năm 2000, chuyên ngành Ngôn ngữ Anh.",
+    "llm_answer": "TS. Nguyễn Thị Linh Yên tốt nghiệp Tiến sĩ năm 2000, chuyên ngành Ngôn ngữ học đại cương.\n"
+  },
+  {
+    "question": "TS. Nguyễn Thị Lệ Quyên học Tiến sĩ ở đâu và chuyên ngành gì?",
+    "answer": "Đại học Sư phạm Hoa Đông, Trung Quốc, chuyên ngành Ngôn ngữ và Văn hoá Trung Quốc.",
+    "llm_answer": "TS. Nguyễn Thị Lệ Quyên học Tiến sĩ tại Đại học Sư phạm Hoa Đông, Trung Quốc, chuyên ngành Ngôn ngữ học và Ngôn ngữ học ứng dụng.\n"
+  },
+  {
+    "question": "TS. Nguyễn Thị Lê Dung bảo vệ luận án Tiến sĩ năm nào?",
+    "answer": "Năm 2018.",
+    "llm_answer": "TS. Nguyễn Thị Lê Dung bảo vệ luận án Tiến sĩ năm 2018.\n"
+  },
+  {
+    "question": "TS. Nguyễn Thị Huyền Trang tốt nghiệp Tiến sĩ ở đâu?",
+    "answer": "Viện hàn lâm Khoa học Xã hội Việt Nam.",
+    "llm_answer": "Viện hàn lâm Khoa học Xã hội Việt Nam\n"
+  },
+  {
+    "question": "TS. Đỗ Lan Anh nhận bằng Tiến sĩ chuyên ngành gì?",
+    "answer": "Linguistic.",
+    "llm_answer": "TS. Đỗ Lan Anh nhận bằng Tiến sĩ chuyên ngành Linguistic năm 2016.\n"
+  },
+  {
+    "question": "Ngành Ngôn ngữ Anh có những định hướng đào tạo nào và thời gian đăng ký định hướng là khi nào?",
+    "answer": "Phiên dịch, Ngôn ngữ học ứng dụng, Quốc tế học, Quản trị học. Đăng ký sau học kỳ 1 năm 2.",
+    "llm_answer": "Ngành Ngôn ngữ Anh có các định hướng: Phiên dịch, Ngôn ngữ học ứng dụng, Quốc tế học, Quản trị học. Sinh viên đăng ký định hướng sau học kỳ 1 năm 2.\n"
+  },
+  {
+    "question": "Sinh viên bắt đầu học chuyên ngành từ khi nào? Điều kiện học bằng kép?",
+    "answer": "Năm 3, năm 4. Điểm trung bình tích lũy từ 2.0 sau năm nhất.",
+    "llm_answer": "Học chuyên ngành từ năm 3. Điều kiện học bằng kép là điểm trung bình tích lũy từ 2.0 sau năm nhất.\n"
+  },
+  {
+    "question": "Thời gian học bằng kép là bao lâu?",
+    "answer": "Bắt đầu sau năm nhất, tối đa 6 năm.",
+    "llm_answer": "Học bằng kép tối đa 6 năm. Thường tốt nghiệp bằng chính quy sau 4 năm, bằng kép sau 1 năm nữa (tổng 5 năm).\n"
+  },
+  {
+    "question": "Có học bổng du học Hàn Quốc cho sinh viên khoa Hàn không?",
+    "answer": "Có. Xem thêm tại: http://ulis.vnu.edu.vn/nhieu-co-hoi-hoc-bong-cho-sinh-vien-cac-chuyen-nganh-tieng-han/",
+    "llm_answer": "Có, có học bổng du học Hàn Quốc cho sinh viên khoa Hàn.\n"
+  },
+  {
+    "question": "Cơ hội nghề nghiệp và điểm đầu vào của khoa tiếng Nhật, Hàn, Trung?",
+    "answer": "Cơ hội việc làm tốt, tỷ lệ cao (73.6%, Nhật/Hàn 98.9%). Điểm đầu vào khoảng 6.0-7.0. Xem thêm tại: http://ulis.vnu.edu.vn/diem-chuan-tuyen-sinh-dai-hoc-chinh-quy-nam-2019-vao-truong-dai-hoc-ngoai-ngu-dhqghn và http://daotao.ulis.vnu.edu.vn.cac-chuong-trinh-dao-tao-dai-hoc-chinh-quy.",
+    "llm_answer": "Cơ hội việc làm tốt, nhiều sinh viên có việc làm trước khi tốt nghiệp (Nhật/Hàn: 98.9%, thống kê 2019). Điểm đầu vào khoảng 6.0-7.0 trở lên. Sinh viên khoa Hàn có cơ hội học bổng du học, trao đổi sinh viên.\n"
+  },
+  {
+    "question": "Sự khác biệt giữa ngành Sư phạm và Ngôn ngữ Anh là gì?",
+    "answer": "Sư phạm đào tạo giáo viên, Ngôn ngữ Anh đa định hướng. Có thể chuyển đổi nghề nghiệp giữa 2 ngành.",
+    "llm_answer": "Sư phạm Anh đào tạo giáo viên, còn Ngôn ngữ Anh đào tạo về khoa học ngoại ngữ với nhiều định hướng như biên phiên dịch, kinh tế, du lịch. Có thể chuyển đổi nghề nghiệp giữa hai ngành và học thêm nghiệp vụ sư phạm.\n"
+  },
+  {
+    "question": "Sinh viên thi đầu vào bằng tiếng Anh có được học các ngành ngôn ngữ từ đầu không?",
+    "answer": "Có, nhưng cần nỗ lực để bắt kịp.",
+    "llm_answer": "Đúng. Các ngành ngôn ngữ có đầu vào bằng tiếng Anh được học từ đầu.\n"
+  },
+  {
+    "question": "Học Ngôn ngữ Anh định hướng kinh tế có được học thêm nghiệp vụ sư phạm không?",
+    "answer": "Có, bằng cách đăng ký khóa học hoặc học phần tự chọn.",
+    "llm_answer": "Có thể học thêm nghiệp vụ sư phạm bằng cách đăng ký khóa học hoặc học phần chuyên ngành sư phạm tự chọn.\n"
+  },
+  {
+    "question": "Học Ngôn ngữ Anh khó không? Hoạt động ngoại khóa như thế nào?",
+    "answer": "Phụ thuộc vào khả năng và quyết tâm. Khoa có nhiều hoạt động ngoại khóa và học thuật.",
+    "llm_answer": "Độ khó tùy thuộc khả năng và quyết tâm. Khoa có nhiều hoạt động ngoại khóa, học thuật như cuộc thi, lễ kết nạp, chương trình văn nghệ, sáng tác truyện tranh.\n"
+  },
+  {
+    "question": "Trường có những loại học bổng nào?",
+    "answer": "Nhiều loại, tỷ lệ 1/5 sinh viên được nhận.",
+    "llm_answer": "Học bổng tiền mặt, giao lưu văn hóa, du học ngắn hạn/dài hạn, khuyến khích học tập (8% học phí, xét theo GPA).\n"
+  },
+  {
+    "question": "Chế độ hỗ trợ học phí cho sinh viên?",
+    "answer": "CLC 3.5 triệu/tháng, 10 tháng/năm, không tăng. Nhiều chế độ hỗ trợ khác: học bổng, thực tập có thu nhập ở nước ngoài...",
+    "llm_answer": "Có học bổng 3 triệu đồng/năm cho sinh viên vay vốn học phí, thành tích giỏi, đóng góp hoạt động sinh viên. Quỹ hỗ trợ \"Đồng hành kiến tạo tương lai\" trị giá 80 triệu đồng/năm. Vay vốn tại ngân hàng chính sách xã hội hoặc ngân hàng thương mại khác.\n"
+  },
+  {
+    "question": "Xếp lớp cho sinh viên ngành Ngôn ngữ Nhật như thế nào? Lựa chọn ngoại ngữ 2 khi học Ngôn ngữ Anh?",
+    "answer": "Xếp lớp riêng cho sinh viên đã và chưa học tiếng Nhật. Học Ngôn ngữ Anh được chọn bất kỳ ngoại ngữ 2 nào.",
+    "llm_answer": "Sinh viên có ngoại ngữ được xếp lớp riêng. Ngành Ngôn ngữ Anh được chọn ngoại ngữ 2 bất kỳ.\n"
+  },
+  {
+    "question": "Ngành Ngôn ngữ Trung có học thêm ngoại ngữ 2 tiếng Hàn và định hướng kinh tế không?",
+    "answer": "Có. Tất cả ngành ngôn ngữ đều có định hướng kinh tế trừ Nga, Hàn, Ả Rập.",
+    "llm_answer": "Ngành Ngôn ngữ Trung được học thêm ngoại ngữ 2 tiếng Hàn và có định hướng kinh tế. Ngoại ngữ 2 tự chọn, không tính vào điểm trung bình.\n"
+  },
+  {
+    "question": "Học ngoại ngữ 2 tự chọn có tính vào điểm chung không?",
+    "answer": "Tự chọn, không tính vào điểm trung bình tích lũy. Được miễn học nếu có chứng chỉ.",
+    "llm_answer": "Không, ngoại ngữ 2 tự chọn không tính vào điểm trung bình.\n"
+  },
+  {
+    "question": "Sự khác biệt giữa chương trình đào tạo chất lượng cao và chương trình chuẩn?",
+    "answer": "Chất lượng cao nâng cao hơn, nhiều môn học hiện đại, cơ sở vật chất tốt hơn, nhiều chế độ ưu đãi hơn.",
+    "llm_answer": "Chương trình chất lượng cao có nhiều môn học mới, hiện đại; đầu tư tốt hơn về cơ sở vật chất, giáo viên, phương pháp giảng dạy; yêu cầu cao hơn với sinh viên; nhiều ưu đãi hơn (học bổng, thực tập nước ngoài, cơ hội việc làm).\n"
+  },
+  {
+    "question": "Điều kiện ở KTX như thế nào?",
+    "answer": "Ưu tiên sinh viên thuộc các đối tượng ưu tiên.",
+    "llm_answer": "KTX ưu tiên sinh viên diện ưu tiên (con thương binh, liệt sĩ, dân tộc thiểu số). Nếu còn chỗ, sinh viên khác sẽ được bố trí.\n"
+  },
+  {
+    "question": "Tiêu chuẩn tốt nghiệp với ngoại ngữ 2 và bằng kép?",
+    "answer": "Ngoại ngữ 2 đạt trình độ B1. Bằng kép phụ thuộc vào trường bằng kép. Học bằng kép không ảnh hưởng đến bằng chính.",
+    "llm_answer": "Ngoại ngữ 2 cần đạt trình độ bậc 3 (tương đương B1). Điều kiện tốt nghiệp bằng kép phụ thuộc vào trường bằng kép, không ảnh hưởng đến tốt nghiệp bằng chính."
+  },
+  {
+    "question": "Có học song song chính quy và liên kết quốc tế không? Học phí liên kết quốc tế?",
+    "answer": "Không. Học phí liên kết quốc tế khoảng 200 triệu/khóa, chính quy chuẩn gần 10 triệu, chất lượng cao 35 triệu/năm. Thông tin liên kết quốc tế tại: https://www.facebook.com/fle.ulis.vnu/",
+    "llm_answer": "Không thể học song song chính quy và liên kết quốc tế. Học phí liên kết quốc tế khoảng 200 triệu/khóa.\n"
+  },
+  {
+    "question": "Thủ tục du học tự túc?",
+    "answer": "Xin bảo lưu hoặc thôi học. Trường tạo điều kiện.",
+    "llm_answer": "1. Đơn đăng ký chương trình ĐHQGHN.\n2. Bảng điểm tiếng Anh (xác nhận).\n3. Sơ yếu lý lịch (CV/Resume) tiếng Anh.\n4. Hộ chiếu (còn hạn ít nhất 6 tháng).\nChi trả: Vé máy bay, bảo hiểm, phí visa, chi phí cá nhân.\n"
+  },
+  {
+    "question": "Bảo lưu để đi du học?",
+    "answer": "Học ít nhất 1 học kỳ rồi mới được bảo lưu. Thủ tục đơn giản, trực tuyến.",
+    "llm_answer": "Cần học ít nhất 1 học kỳ rồi mới được bảo lưu. Thủ tục bảo lưu đơn giản, thực hiện trực tuyến.\n"
+  },
+  {
+    "question": "Tính điểm xét tuyển có bất công với khối D78-D83 không?",
+    "answer": "Không, vì tổ hợp môn phù hợp với năng lực của từng khối.",
+    "llm_answer": "Không bất công. Xét tuyển từ cao xuống thấp, không chia chỉ tiêu theo tổ hợp. Tổ hợp KHTN, KHXH đã có sự phân hóa phù hợp năng lực. Điểm xét tuyển tính theo công thức, ngoại ngữ nhân hệ số 2.\n"
+  },
+  {
+    "question": "Điểm bài thi tổ hợp KHTN tính như thế nào?",
+    "answer": "Trung bình cộng 3 môn Lý, Hóa, Sinh.",
+    "llm_answer": "Điểm tổ hợp KHTN bằng trung bình cộng điểm ba môn Lý, Hóa, Sinh: (Lý + Hóa + Sinh)/3.\n"
+  },
+  {
+    "question": "Tổ hợp xét tuyển có tiếng Hàn năm 2024?",
+    "answer": "Có tổ hợp D07 (Toán, Văn, Hàn Quốc).",
+    "llm_answer": "Có. Năm 2024 có tổ hợp D07 (Toán, Văn, Hàn Quốc).\n"
+  },
+  {
+    "question": "Sử dụng chứng chỉ A-level để xét tuyển như thế nào?",
+    "answer": "Mỗi môn đạt từ 60.100 điểm trở lên (tương đương điểm C, PUM range ≥ 60).",
+    "llm_answer": "Xét tuyển A-Level cần chứng chỉ còn hạn 2 năm. Tổ hợp 3 môn (có Toán), mỗi môn từ 60/100 điểm (tương ứng điểm C). Nếu không học tiếng Anh THPT, cần thêm chứng chỉ tiếng Anh A2/VSTEP hoặc tương đương.\n"
+  },
+  {
+    "question": "Đăng ký xét tuyển ngành Sư phạm tiếng Trung bằng cả D78 và D01 được không?",
+    "answer": "Chỉ được chọn 1 tổ hợp cho 1 ngành.",
+    "llm_answer": "Không thể. Theo câu 33, chỉ được chọn 1 tổ hợp cho 1 ngành.\n"
+  },
+  {
+    "question": "Điều kiện học lực để xét tuyển ngành Sư phạm?",
+    "answer": "Không cần học lực giỏi lớp 12.",
+    "llm_answer": "Không cần học lực giỏi lớp 12 để xét tuyển sư phạm. Điểm sàn tham khảo trên trang web trường.\n"
+  },
+  {
+    "question": "1 khối thi đăng ký 2 khoa khác nhau được không? Thứ tự đăng ký ngành và tổ hợp?",
+    "answer": "Được. Chọn ngành trước, rồi chọn tổ hợp. Có thể dùng 1 tổ hợp cho nhiều ngành nếu các ngành đó dùng cùng 1 tổ hợp.",
+    "llm_answer": "Được. Chọn ngành trước, rồi chọn tổ hợp.\n"
+  },
+  {
+    "question": "Đăng ký nguyện vọng 1 ngoại ngữ, nguyện vọng 2 khoa Luật hoặc khoa khác trong ĐHQGHN được không?",
+    "answer": "Được. Không giới hạn số nguyện vọng.",
+    "llm_answer": "Được. Bạn có thể đăng ký nguyện vọng 1 ngoại ngữ, nguyện vọng 2 khoa Luật hoặc khoa khác trong ĐHQGHN."
+  },
+  {
+    "question": "Ưu tiên xét tuyển đối tượng khuyết tật, con thương binh?",
+    "answer": "Có, theo quy chế của Bộ GD-ĐT.",
+    "llm_answer": "Ưu tiên xét tuyển đối tượng khuyết tật, con thương binh theo quy chế của Bộ GD&ĐT.\n"
+  },
+  {
+    "question": "Xét tuyển ngành Ngôn ngữ Anh bằng tổ hợp D90 (Anh, Toán, KHTN) được không?",
+    "answer": "Không, tổ hợp KHTN là Lý, Hóa, Sinh.",
+    "llm_answer": "Không. Ngành Ngôn ngữ Anh không xét tuyển tổ hợp D90 (Anh, Toán, KHTN). Chỉ xét tuyển các tổ hợp D01, A01, D09, D10 kết hợp chứng chỉ tiếng Anh quốc tế và kết quả học tập THPT.\n"
+  },
+  {
+    "question": "Công bố danh sách thí sinh và điểm đăng ký xét tuyển như thế nào?",
+    "answer": "Công bố 1 lần duy nhất trên web.",
+    "llm_answer": "Công bố danh sách thí sinh và điểm đăng ký xét tuyển một lần duy nhất trên website.\n"
+  },
+  {
+    "question": "Đổi khối thi khi biết điểm được không?",
+    "answer": "Được, trong thời gian thay đổi nguyện vọng của Bộ.",
+    "llm_answer": "Được, đổi tổ hợp trong thời gian thay đổi nguyện vọng của Bộ sau khi biết điểm.\n"
+  },
+  {
+    "question": "Phí đăng ký xét tuyển khi điều chỉnh nguyện vọng?",
+    "answer": "Không mất phí nếu chỉ sắp xếp lại nguyện vọng hoặc thay đổi tổ hợp. Mất phí nếu đăng ký bổ sung nguyện vọng.",
+    "llm_answer": "Điều chỉnh thứ tự nguyện vọng hoặc thay đổi tổ hợp không mất phí. Đăng ký bổ sung nguyện vọng thì nộp thêm lệ phí.\n"
+  },
+  {
+    "question": "Tỷ trọng xét các tổ hợp như thế nào?",
+    "answer": "Không chia chỉ tiêu cho các tổ hợp, xét từ cao xuống thấp.",
+    "llm_answer": "Tổ hợp xét tuyển cần ít nhất 3 môn phù hợp, Toán hoặc Ngữ văn chiếm tối thiểu 25% trọng số. Từ 2026, môn chung giữa các tổ hợp chiếm ít nhất 50% trọng số.\n"
+  },
+  {
+    "question": "Nguyên tắc xét tuyển nguyện vọng?",
+    "answer": "Xét đồng thời tất cả nguyện vọng, chỉ trúng tuyển 1 nguyện vọng.",
+    "llm_answer": "Trúng tuyển 1 nguyện vọng duy nhất, xét tuyển đồng thời, nguyên tắc ruộng bậc thang, xét tuyển từ cao xuống thấp, không chia chỉ tiêu cho các tổ hợp.\n"
+  },
+  {
+    "question": "Trường nào tuyển sinh ngành Ngôn ngữ Anh hệ vừa làm vừa học?",
+    "answer": "Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội.",
+    "llm_answer": "Đại học Ngoại ngữ - ĐHQGHN tuyển sinh ngành Ngôn ngữ Anh hệ vừa làm vừa học.\n"
+  },
+  {
+    "question": "Học phí mỗi tháng là bao nhiêu?",
+    "answer": "4.800.000đ (kỳ thứ nhất), thu theo từng học kỳ.",
+    "llm_answer": "Khóa tuyển sinh 2022: 4.200.000 - 4.800.000 đồng/tháng.\nKhóa tuyển sinh 2025: 4.600.000 - 5.200.000 đồng/tháng.\n"
+  },
+  {
+    "question": "Thông tin chi tiết về học phí?",
+    "answer": "Theo Nghị định số 81/2021/NĐ-CP và Nghị định số 97/2023/NĐ-CP.",
+    "llm_answer": "Học phí khóa học chuẩn (122 tín chỉ): 362.455.000 đồng.\nHọc phí sau khi trừ học bổng (khóa 05): 331.416.600 đồng.\nHọc phí kỳ thứ nhất (dự kiến): 1.800.000 đồng/tháng.\nLệ phí xét tuyển: 20.000 đồng/bộ.\n"
+  },
+  {
+    "question": "Chủ đề của Hội thảo Quốc tế về Ngôn ngữ, Truyền thông và Văn hóa ngày 30/03/2025 là gì?",
+    "answer": "Vượt qua biên giới: ngôn ngữ, truyền thông và dòng chảy văn hóa.",
+    "llm_answer": "Ngôn ngữ, truyền thông và văn hóa xuyên quốc gia.\n"
+  },
+  {
+    "question": "Hội thảo quốc tế 'Vượt qua biên giới' diễn ra vào ngày nào?",
+    "answer": "Ngày 30/03/2025 tại Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội.",
+    "llm_answer": "30 tháng 3 năm 2025\n"
+  },
+  {
+    "question": "Số học sinh tham gia làm bài thi thử trực tuyến đợt 2 là bao nhiêu?",
+    "answer": "2.108 học sinh.",
+    "llm_answer": "Đề án tổ chức 3 đợt thi thử cho 2788 học sinh. Thông tin về số học sinh tham gia đợt 2 không được cung cấp.\n"
+  },
+  {
+    "question": "Mục tiêu của đề án bồi dưỡng ngoại ngữ là gì?",
+    "answer": "Nâng cao chất lượng dạy và học tiếng Anh cấp Tiểu học và THCS, cải thiện chất lượng tuyển sinh lớp 10 THPT.",
+    "llm_answer": "Xây dựng chiến lược ngoại ngữ, mô hình đào tạo hiệu quả, khung năng lực ngoại ngữ, đổi mới đào tạo giáo viên, xây dựng tài liệu dạy học, phát triển giao tiếp liên văn hóa, chuẩn hóa kiểm tra đánh giá.\n"
+  },
+  {
+    "question": "Đề án được triển khai tại bao nhiêu trường THCS và Tiểu học năm 2025?",
+    "answer": "35 trường THCS và 34 trường Tiểu học (thí điểm 3 trường Tiểu học).",
+    "llm_answer": "Không có thông tin về số lượng trường THCS và Tiểu học năm 2025.\n"
+  },
+  {
+    "question": "Nội dung triển khai đề án ở bậc THCS bao gồm những gì?",
+    "answer": "Ứng dụng AI, thực địa, tổ chức môi trường ngoại ngữ, bồi dưỡng giáo viên, câu lạc bộ học sinh giỏi và học sinh lớp 9.",
+    "llm_answer": "Hỗ trợ giáo viên, học sinh THCS; mở rộng quy mô đào tạo ngoại ngữ; đổi mới mô hình tổ chức, hoạt động; xây dựng trường liên cấp.\n"
+  },
+  {
+    "question": "Học phí khóa QH2024 ngành ngôn ngữ Nga là bao nhiêu?",
+    "answer": "2.100.000đ/tháng x 10 tháng hoặc 550.000đ/tín chỉ.",
+    "llm_answer": "Ngành Ngôn ngữ Nga hệ chuẩn. Các ngành còn lại hệ CLC, học phí 3.5 triệu/tháng (10 tháng/năm), không tăng trong khóa học.\n"
+  },
+  {
+    "question": "Học phí đào tạo tại trường khóa QH2022 là bao nhiêu?",
+    "answer": "14.700.000đ/năm.",
+    "llm_answer": "Học phí khóa QH2022:\nNăm 2022-2023: 42.000.000 đồng/năm.\nNăm 2022-2023: 44.000.000 đồng/năm.\nNăm 2022-2023: 46.000.000 đồng/năm.\nNăm 2022-2023: 48.000.000 đồng/năm.\n"
+  },
+  {
+    "question": "Học phí Đại học chính quy là bao nhiêu?",
+    "answer": "6.200.000đ/tháng x 10 tháng hoặc 1.700.000đ/tín chỉ.",
+    "llm_answer": "Học phí dự kiến cho khóa tuyển sinh 2025:\n2025-2026: 46 triệu đồng/năm\n2026-2027: 48 triệu đồng/năm\n2027-2028: 50 triệu đồng/năm\n2028-2029: 52 triệu đồng/năm\n"
+  },
+  {
+    "question": "Học phí đào tạo tại trường tính theo tín chỉ là bao nhiêu?",
+    "answer": "300.000đ/tín chỉ.",
+    "llm_answer": "Học phí theo tín chỉ:\n\n- Khóa chuẩn: 2.971.000 đồng/tín chỉ (362.455.000 đồng / 122 tín chỉ).\n- Ngành Quản trị kinh doanh (tài năng thể thao): 990.000 đồng/tín chỉ.\n"
+  },
+  {
+    "question": "Cơ quan nào chịu trách nhiệm về công tác đảm bảo chất lượng của trường Đại học Ngoại ngữ - ĐHQG Hà Nội?",
+    "answer": "Hội đồng Đảm bảo chất lượng ĐHQG Hà Nội.",
+    "llm_answer": "Trung tâm Đảm bảo Chất lượng thuộc Đại học Ngoại ngữ - ĐHQG Hà Nội chịu trách nhiệm về công tác đảm bảo chất lượng.\n"
+  },
+  {
+    "question": "Những giấy tờ cần thiết để thanh lý hợp đồng là gì?",
+    "answer": "Hợp đồng gốc (2 bản nếu đã tạm ứng), biên bản nghiệm thu và thanh lý hợp đồng (2 bản gốc), bảng xác định giá trị khối lượng công việc hoàn thành (Mẫu 08a), các chứng từ liên quan hợp lý, hợp pháp, bảng quyết toán kinh phí.",
+    "llm_answer": "Hợp đồng, giấy ủy quyền (nếu có), thuyết minh đề tài, quyết định thành lập hội đồng nghiệm thu, biên bản họp hội đồng, biên bản nghiệm thu và thanh lý, bảng xác định giá trị, bảng kê chi tiền, hóa đơn (nếu có), hợp đồng giao khoán (nếu có), xác nhận hoàn thành, bảng quyết toán kinh phí.\n"
+  },
+  {
+    "question": "Làm việc ngoài giờ cần những giấy tờ gì để được thanh toán?",
+    "answer": "Phiếu trình/chủ trương làm việc ngoài giờ đã được phê duyệt, kế hoạch làm việc, bảng phân công nhiệm vụ, dự trù kinh phí đã được phê duyệt, giấy báo làm việc ngoài giờ, bảng chấm công (mẫu C09-HD), xác nhận khối lượng công việc hoàn thành hoặc giấy báo làm việc ngoài giờ, bảng quyết toán kinh phí.",
+    "llm_answer": "Phiếu trình/chủ trương làm việc ngoài giờ, kế hoạch làm việc ngoài giờ, bảng phân công nhiệm vụ, dự trù kinh phí, giấy báo làm việc ngoài giờ, bảng chấm công (mẫu C09-HD), xác nhận khối lượng công việc, bảng quyết toán kinh phí.\n"
+  },
+  {
+    "question": "Đi công tác cần chuẩn bị những giấy tờ gì?",
+    "answer": "Công văn/ giấy mời (nếu có), quyết định cử đi công tác của Hiệu trưởng (bản chính), dự trù chi phí đã được duyệt, giấy đi đường có xác nhận, hóa đơn, chứng từ kèm theo.",
+    "llm_answer": "Thông tin cung cấp không đề cập trực tiếp đến giấy tờ cần chuẩn bị khi đi công tác. Các giấy tờ được liệt kê liên quan đến hồ sơ khám chữa bệnh và các trường hợp cụ thể như đi công tác/học tập nước ngoài hoặc cán bộ đi công tác/học tập nước ngoài.\n"
+  },
+  {
+    "question": "Những giấy tờ cần thiết cho đoàn đi công tác là gì?",
+    "answer": "Thư mời/ giấy mời (ghi rõ thành phần, trách nhiệm thanh toán), dự trù kinh phí, quyết định cử đi công tác (2 bản chính), lịch trình, chứng từ chi các khoản (vé, điện thoại...), báo cáo kết quả, bảng quyết toán kinh phí đã được duyệt.",
+    "llm_answer": "Trong nước: Giấy ra viện/chứng nhận nghỉ việc BHXH, giấy xác nhận cán bộ (MẫuCB_013).\n\nNước ngoài: Bản dịch giấy khám chữa bệnh, giấy xác nhận của cơ sở y tế, quyết định cử đi công tác/học tập, đơn xin đi nước ngoài (MẫuCB_06), công văn/thư mời/giấy triệu tập.\n"
+  },
+  {
+    "question": "Để tổ chức hội nghị/ hội thảo cần những giấy tờ gì?",
+    "answer": "Quyết định tổ chức (2 bản chính), dự trù kinh phí đã được phê duyệt, bảng quyết toán kinh phí đã được duyệt, hóa đơn, chứng từ chi khác, nội dung mua sắm/ thuê mướn.",
+    "llm_answer": "Hội thảo quốc tế: Phiếu trình (Mẫu CB_28a), Đề án (Mẫu CB_28b), Quyết định tổ chức (2 bản chính), dự trù, quyết toán, hóa đơn, chứng từ.\n\nHội thảo trong nước: Phiếu trình (Mẫu CB_30a), Đề án (Mẫu CB_30b).\n"
+  },
+  {
+    "question": "Giấy tờ cần thiết để thanh toán tiền giảng dạy là gì?",
+    "answer": "Hợp đồng giảng dạy, phiếu báo giảng hoặc thống kê giờ giảng có xác nhận (Phụ lục 04.1), bảng kê chi giảng dạy (Phụ lục 04.2).",
+    "llm_answer": "Vượt giờ chuẩn: Mẫu biểu của phòng Đào tạo.\nLàm thêm giờ: Phiếu trình, kế hoạch, bảng phân công, dự trù, giấy báo, bảng chấm công, xác nhận khối lượng, bảng quyết toán.\nGiảng dạy: Hợp đồng, phiếu báo giảng/thống kê giờ giảng, bảng kê chi giảng dạy.\n"
+  },
+  {
+    "question": "Những giấy tờ cần thiết để mua sắm trang thiết bị dưới 5 triệu là gì?",
+    "answer": "Tờ trình được Hiệu trưởng phê duyệt, biên bản kiểm tra tình trạng trang thiết bị, lưu trữ hồ sơ theo quy định (Phụ lục 05.4).",
+    "llm_answer": "Tờ trình được Hiệu trưởng phê duyệt, biên bản kiểm tra tình trạng trang thiết bị, lưu trữ hồ sơ theo quy định (Phụ lục 05.4).\n"
+  },
+  {
+    "question": "Giấy tờ cần thiết để mua sắm từ 5 đến dưới 20 triệu là gì?",
+    "answer": "Chứng từ thanh toán (1 bộ gốc), chủ trương phê duyệt của Hiệu trưởng, 3 báo giá, biên bản xét chọn (Phụ lục 05.1), biên bản nghiệm thu và bàn giao, hóa đơn.",
+    "llm_answer": "Chủ trương phê duyệt, 3 báo giá, biên bản xét chọn (Phụ lục 05.1), biên bản nghiệm thu và bàn giao, hóa đơn.\n"
+  },
+  {
+    "question": "Thanh toán văn phòng phẩm, điện thoại như thế nào?",
+    "answer": "Theo Phụ lục 06.1 (hình thức khoán, Điều 16- Mục 4- QCCTNB).",
+    "llm_answer": "Văn phòng phẩm, điện thoại: Khoán (Điều 16 - Mục 4 - QCCTNB). Cần hóa đơn nếu có mua sắm văn phòng phẩm, vật tư.\n"
+  },
+  {
+    "question": "Thanh toán các khoản khác như xăng dầu, rửa xe, lệ phí đường bộ như thế nào?",
+    "answer": "Lái xe làm bảng tổng hợp thanh toán kèm chứng từ hợp lệ (Phụ lục 06.2), Điều 17- Mục 4- QCCTNB.",
+    "llm_answer": "Thanh toán xăng dầu, rửa xe, lệ phí đường bộ cần bảng tổng hợp thanh toán và chứng từ hợp lệ (Phụ lục 06.2) (Điều 17 - Mục 4 - QCCTNB).\n"
+  },
+  {
+    "question": "Hội nghị giao ban quý I/2021 diễn ra vào ngày nào?",
+    "answer": "Ngày 10/3/2021",
+    "llm_answer": "10 tháng 3 năm 2021\n"
+  },
+  {
+    "question": "Ai chủ trì cuộc họp giao ban tháng 2/2021?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh",
+    "llm_answer": "Không có thông tin về cuộc họp giao ban tháng 2/2021.\n"
+  },
+  {
+    "question": "Hội nghị giao ban quý II/2020 được tổ chức vào ngày nào?",
+    "answer": "Ngày 10/6/2020",
+    "llm_answer": "Ngày 10 tháng 6 năm 2020.\n"
+  },
+  {
+    "question": "Ai chủ trì cuộc họp giao ban tháng 5/2020?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh",
+    "llm_answer": "Không có thông tin về cuộc họp giao ban tháng 5/2020.\n"
+  },
+  {
+    "question": "Hội nghị cán bộ cốt cán đầu xuân Đinh Dậu 2017 có sự tham dự của ai?",
+    "answer": "TS. Đỗ Tuấn Minh - Hiệu trưởng",
+    "llm_answer": "Hội nghị có sự tham dự của Đỗ Tuấn Minh, Nguyễn Xuân Long, Lâm Quang Đông, Hà Lê Kim Anh, Dương Quỳnh Hoa, Phạm Văn Kim, Vũ Văn Hải, Nguyễn Văn Đoàn, Nguyễn Thị Hồng Nhung, Lê Thị Khánh Trang, Nguyễn Thị Ngọc Quỳnh, Nguyễn Đoàn Phượng, Phạm Minh Tiến, Lại Thị Phương Thảo, Đào Thị Nga My, Lê Trung Thành, Nguyễn Anh Thu và đại diện lãnh đạo, giảng viên các đơn vị.\n"
+  },
+  {
+    "question": "Ai tham dự hội nghị giao ban tháng 01/2017?",
+    "answer": "Ban Giám hiệu, Trưởng các phòng chức năng,...",
+    "llm_answer": "Hiệu trưởng Đỗ Tuấn Minh, PGS. TS. Nguyễn Kim Sơn, PGS. TS. Đinh Văn Dũng, GS. Nguyễn Văn Kim, các Phó Hiệu trưởng, Chủ tịch Công đoàn, Bí thư Đoàn thanh niên và lãnh đạo các đơn vị trong trường.\n"
+  },
+  {
+    "question": "Ai chủ trì hội nghị giao ban quý IV năm 2016?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh",
+    "llm_answer": "Hiệu trưởng Đỗ Tuấn Minh.\n"
+  },
+  {
+    "question": "Hội nghị giao ban công tác quý I/2021 của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội diễn ra khi nào?",
+    "answer": "Ngày 10/3/2021.",
+    "llm_answer": "Ngày 10 tháng 3 năm 2021.\n"
+  },
+  {
+    "question": "Ai chủ trì hội nghị giao ban công tác quý I/2021?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh.",
+    "llm_answer": "Hiệu trưởng Đỗ Tuấn Minh chủ trì hội nghị.\n"
+  },
+  {
+    "question": "Một trong những nhiệm vụ trọng tâm của quý I/2021 là gì?",
+    "answer": "Chăm sóc cán bộ, giảng viên, sinh viên dịp Tết Nguyên đán và đảm bảo an ninh.",
+    "llm_answer": "Các nhiệm vụ trọng tâm quý I năm 2021:\n- Đại hội Hội Cựu giáo chức, Hội Sinh viên.\n- Triển khai Mạng lưới cựu sinh viên, Đề án FIRE, hội thảo UNC2021.\n- Truyền thông, tư vấn tuyển sinh.\n- Chăm sóc cán bộ, giảng viên, sinh viên dịp Tết, đảm bảo an ninh.\n"
+  },
+  {
+    "question": "Hiệu trưởng có đề nghị gì đối với các đơn vị sau hội nghị?",
+    "answer": "Tích cực triển khai hoạt động, thực hiện nghiêm túc quy chế và hoàn thành kế hoạch quý II/2021.",
+    "llm_answer": "Hiệu trưởng đề nghị các đơn vị tích cực triển khai hoạt động, thực hiện nghiêm túc quy chế làm việc và quy chế đào tạo, hoàn thành kế hoạch quý II/2021 và quý III/2020.\n"
+  },
+  {
+    "question": "Hiệu trưởng đánh giá như thế nào về nỗ lực của các đơn vị trong tháng 10?",
+    "answer": "Đánh giá cao.",
+    "llm_answer": "Hiệu trưởng đánh giá cao nỗ lực của các đơn vị.\n"
+  },
+  {
+    "question": "Buổi họp giao ban công tác tháng 7/2020 của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội do ai chủ trì?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh",
+    "llm_answer": "Không có thông tin về buổi họp giao ban công tác tháng 7/2020.\n"
+  },
+  {
+    "question": "Ai được bổ nhiệm làm Phó Trưởng khoa NN&VH Pháp?",
+    "answer": "TS. Đàm Minh Thủy.",
+    "llm_answer": "TS Đàm Minh Thủy\n"
+  },
+  {
+    "question": "Bao nhiêu giảng viên được trao danh hiệu Gương mặt giảng viên ULIS đợt 1/2020?",
+    "answer": "15 giảng viên.",
+    "llm_answer": "15 giảng viên.\n"
+  },
+  {
+    "question": "Số điện thoại liên hệ của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội là gì?",
+    "answer": "(+84)243.754.7269",
+    "llm_answer": "(+84)243.754.7269\n"
+  },
+  {
+    "question": "Buổi họp giao ban tháng 5/2020 của Trường Đại học Ngoại ngữ - Đại học Quốc gia Hà Nội do ai chủ trì?",
+    "answer": "Hiệu trưởng Đỗ Tuấn Minh",
+    "llm_answer": "Không có thông tin về buổi họp giao ban tháng 5/2020.\n"
+  },
+  {
+    "question": "Những hoạt động nào được rà soát trong buổi họp giao ban?",
+    "answer": "Đại hội Đảng bộ, đón sinh viên, hội thảo khoa học, bế giảng lớp tiếng Việt.",
+    "llm_answer": "Tổ chức cán bộ, Đào tạo, Quản lý HSSV, Thanh tra, Khảo thí, Khoa học Công nghệ, Hợp tác và Phát triển, Công nghệ thông tin, Đảm bảo chất lượng, Kế hoạch Tài chính, Cơ sở vật chất, Chính trị tư tưởng, Công tác Đảng và hoạt động đoàn thể.\n"
+  },
+  {
+    "question": "Khoa Kinh tế ĐHQGHN được thành lập khi nào?",
+    "answer": "Ngày 5/7/1999 theo Quyết định số 1164/TCCB của Giám đốc ĐHQGHN.",
+    "llm_answer": "5 tháng 7 năm 1999\n"
+  },
+  {
+    "question": "Ai là Chủ nhiệm Khoa Kinh tế đầu tiên?",
+    "answer": "TS. Lê Danh Tốn được bổ nhiệm ngày 19/8/1999.",
+    "llm_answer": "TS. Lê Danh Tốn là Chủ nhiệm Khoa Kinh tế đầu tiên của Trường ĐHKHXH&NV (từ tháng 10/1995). Trước đó, GS. Trần Phương là Chủ nhiệm Khoa Kinh tế Chính trị của Trường ĐHTHHN.\n"
+  },
+  {
+    "question": "Khoa Kinh tế trực thuộc ĐHQGHN có những nhiệm vụ chính nào?",
+    "answer": "Đào tạo đại học và sau đại học, nghiên cứu khoa học gắn với giảng dạy.",
+    "llm_answer": "Khoa Kinh tế ĐHQGHN có nhiệm vụ đào tạo đại học, sau đại học và nghiên cứu khoa học, triển khai kết quả nghiên cứu.\n\nThông tin về ngành Kinh tế quốc tế và Quản trị kinh doanh không được cung cấp.\n"
+  },
+  {
+    "question": "Khâu đột phá của Khoa Kinh tế trong quá trình phát triển theo chiều sâu là gì?",
+    "answer": "Nâng cao chất lượng đội ngũ cán bộ.",
+    "llm_answer": "Nâng cao chất lượng đội ngũ cán bộ thông qua tuyển dụng, bồi dưỡng, khuyến khích nâng cao trình độ, tạo cơ hội tiếp cận thông tin và học tập ở nước ngoài.\n"
+  },
+  {
+    "question": "Khoa Kinh tế đã mở những mã ngành đào tạo mới nào?",
+    "answer": "Tiến sĩ Kinh tế Chính trị, thạc sĩ Kinh tế Thế giới và Quan hệ Kinh tế Quốc tế, thạc sĩ Quản trị Kinh doanh, cử nhân Tài chính - Ngân hàng.",
+    "llm_answer": "Cử nhân: Kinh tế Phát triển, Kế toán.\nThạc sĩ: Quản lý Kinh tế, Tài chính Ngân hàng, Quản trị Công nghệ và Phát triển Doanh nghiệp.\nTiến sĩ: Kinh tế Đối ngoại, Quản trị Kinh doanh.\n"
+  },
+  {
+    "question": "Chương trình đào tạo chất lượng cao của Khoa Kinh tế được triển khai từ năm nào?",
+    "answer": "Năm học 2001-2002.",
+    "llm_answer": "2001-2002\n\nKhông có thông tin về ngành Kế toán chương trình chất lượng cao.\n\nChương trình chất lượng cao ngành Kinh tế đào tạo cử nhân kinh tế bám sát hội nhập kinh tế toàn cầu, trang bị tư duy khoa học, khả năng nhận diện, phân tích và giải quyết các vấn đề kinh tế.\n"
+  },
+  {
+    "question": "Khoa Kinh tế đã tiến hành công tác tự đánh giá theo tiêu chuẩn nào?",
+    "answer": "Bộ tiêu chuẩn Kiểm định chất lượng đơn vị đào tạo của ĐHQGHN.",
+    "llm_answer": "Bộ tiêu chuẩn Kiểm định chất lượng đơn vị đào tạo của ĐHQGHN.\n"
+  },
+  {
+    "question": "Trong 5 năm gần đây, các cán bộ Khoa đã hoàn thành bao nhiêu đề tài?",
+    "answer": "57 đề tài, trong đó có 1 đề tài trọng điểm, 3 đề tài đặc biệt cấp ĐHQGHN.",
+    "llm_answer": "Trong 5 năm gần đây, các cán bộ Khoa đã hoàn thành 57 đề tài.\n"
+  },
+  {
+    "question": "Trường ĐHQGHN được thành lập vào ngày tháng năm nào?",
+    "answer": "Trường ĐHQGHN được thành lập theo Nghị định 97/CP ngày 10/12/1993.",
+    "llm_answer": "10 tháng 12 năm 1993\n"
+  },
+  {
+    "question": "Nhiệm vụ chiến lược của Khoa Kinh tế là gì?",
+    "answer": "Giữ vững và nâng cao chất lượng đào tạo, tạo vị thế hàng đầu về đào tạo kinh tế.",
+    "llm_answer": "Giữ vững và nâng cao chất lượng, hiệu quả đào tạo, tạo vị thế hàng đầu trong các cơ sở đào tạo kinh tế.\n"
+  },
+  {
+    "question": "Khoa Kinh tế đã xây dựng chương trình công tác mấy năm?",
+    "answer": "Khoa Kinh tế đã xây dựng chương trình công tác 4 năm (1995-1999).",
+    "llm_answer": "Khoa Kinh tế đã xây dựng chương trình công tác 4 năm (1995-1999), đề án phát triển giai đoạn 1997-2000, quy hoạch cán bộ giai đoạn 2001-2005, chương trình hành động nâng cao chất lượng đào tạo giai đoạn 2000-2005, lộ trình nâng cao chất lượng đào tạo đạt chuẩn khu vực vào năm 2010.\n"
+  },
+  {
+    "question": "Đề án phát triển Khoa Kinh tế giai đoạn 1997-2000 tập trung vào điều gì?",
+    "answer": "Đổi mới mạnh mẽ trên tất cả các lĩnh vực công tác.",
+    "llm_answer": "Đề án tập trung đổi mới mạnh mẽ trên tất cả các lĩnh vực công tác để thực hiện 5 chương trình xây dựng và phát triển Trường ĐHKHXH&NV theo tinh thần Nghị quyết Trung ương 2 (khóa VIII).\n"
+  },
+  {
+    "question": "Khoa Kinh tế đã xuất bản bao nhiêu giáo trình đầu tiên?",
+    "answer": "Khoa Kinh tế đã xuất bản 5 giáo trình đầu tiên.",
+    "llm_answer": "Khoa Kinh tế đã xuất bản 5 giáo trình đầu tiên.\n"
+  },
+  {
+    "question": "Khoa Kinh tế đã giữ vai trò nòng cốt trong hội thảo khoa học quốc tế nào?",
+    "answer": "Hội thảo về mối quan hệ giữa khu vực Nhà nước và khu vực tư nhân.",
+    "llm_answer": "Hội thảo khoa học quốc tế về mối quan hệ giữa khu vực Nhà nước và khu vực tư nhân trong nền kinh tế thị trường.\n"
+  },
+  {
+    "question": "Tổ chức nào được thành lập để thúc đẩy hoạt động nghiên cứu khoa học của sinh viên?",
+    "answer": "Câu lạc bộ Sinh viên Kinh tế.",
+    "llm_answer": "Câu lạc bộ Sinh viên Kinh tế.\n"
+  },
+  {
+    "question": "Khoa Kinh tế Chính trị Trường ĐHTHHN được thành lập khi nào?",
+    "answer": "Khoa Kinh tế Chính trị - Trường ĐHTHHN được thành lập vào tháng 11/1974.",
+    "llm_answer": "Tháng 11 năm 1974.\n"
+  },
+  {
+    "question": "Ai là người kiêm giữ chức vụ Chủ nhiệm Khoa Kinh tế Chính trị của Trường ĐHTHHN khi mới thành lập?",
+    "answer": "GS. Trần Phương kiêm giữ chức vụ Chủ nhiệm Khoa Kinh tế Chính trị của Trường ĐHTHHN.",
+    "llm_answer": "GS Trần Phương.\n"
+  },
+  {
+    "question": "Những năm đầu xây dựng, Khoa Kinh tế Chính trị có những bộ môn nào?",
+    "answer": "Khoa có 5 bộ môn: Kinh tế Chính trị (XHCN), Kinh tế Chính trị (TBCN), Lịch sử các học thuyết kinh tế, Kinh tế Thế giới, Khoa học Quản lý.",
+    "llm_answer": "Kinh tế Chính trị phần Xã hội Chủ nghĩa, Kinh tế Chính trị phần Tư bản Chủ nghĩa, Lịch sử các học thuyết kinh tế và Lịch sử Kinh tế Quốc dân, Kinh tế Thế giới và Quan hệ Kinh tế Quốc tế, Khoa học Quản lý.\n"
+  },
+  {
+    "question": "Mục tiêu đào tạo của Khoa Kinh tế Chính trị giai đoạn 1974-1986 là gì?",
+    "answer": "Đào tạo cán bộ lý luận kinh tế có khả năng nghiên cứu và giảng dạy, đồng thời là nhà khoa học, nhà chính trị, nhà sư phạm.",
+    "llm_answer": "Đào tạo cán bộ lý luận kinh tế có khả năng nghiên cứu, giảng dạy Kinh tế Chính trị, đồng thời là nhà khoa học, chính trị, sư phạm, hoạt động xã hội, chiến sĩ bảo vệ đường lối của Đảng.\n"
+  },
+  {
+    "question": "Chủ nhiệm Khoa Kinh tế Chính trị giai đoạn 1989-1993 là ai?",
+    "answer": "GS.TSKH Lê Văn Viện là Chủ nhiệm Khoa Kinh tế Chính trị giai đoạn 1989-1993.",
+    "llm_answer": "GS.TSKH Lê Văn Viện\n"
+  },
+  {
+    "question": "Năm nào Khoa Kinh tế Chính trị được giao nhiệm vụ đào tạo cao học chuyên ngành Kinh tế chính trị xã hội chủ nghĩa?",
+    "answer": "Tháng 10/1991, Khoa được giao nhiệm vụ đào tạo cao học chuyên ngành Kinh tế chính trị xã hội chủ nghĩa.",
+    "llm_answer": "Năm 1991.\n"
+  },
+  {
+    "question": "Trường Đại học Kinh tế - ĐHQGHN được thành lập khi nào?",
+    "answer": "Trường được thành lập ngày 6/3/2007 theo Quyết định số 290/QĐ-TTg của Thủ tướng Chính phủ.",
+    "llm_answer": "Trường Đại học Kinh tế - ĐHQGHN được thành lập ngày 6/3/2007.\n"
+  },
+  {
+    "question": "Trường ĐHKT đã kiểm định bao nhiêu CTĐT theo chuẩn ABCSP?",
+    "answer": "06 CTĐT bậc đại học của Nhà Trường đã kiểm định và được cấp giấy chứng nhận đạt chuẩn.",
+    "llm_answer": "Trường ĐHKT chưa kiểm định CTĐT nào theo chuẩn ABCSP. Thông tin chỉ đề cập đến kế hoạch triển khai kiểm định và việc thực hiện các bước kiểm định theo tiêu chuẩn ACBSP.\n"
+  },
+  {
+    "question": "Sinh viên Trường ĐHKT có cơ hội trao đổi quốc tế không?",
+    "answer": "Có, mỗi năm hàng chục lượt sinh viên được đi trao đổi tại hơn 50 trường đại học, viện nghiên cứu thuộc 15 quốc gia.",
+    "llm_answer": "Có. Trường ĐHKT triển khai nhiều chương trình giao lưu, trao đổi với các trường đại học đối tác nước ngoài. Sinh viên có cơ hội trao đổi tại hơn 50 trường đại học, viện nghiên cứu thuộc 15 quốc gia và vùng lãnh thổ."
+  },
+  {
+    "question": "Tỷ lệ sinh viên tốt nghiệp Trường Đại học Kinh tế có việc làm là bao nhiêu?",
+    "answer": "Tỷ lệ sinh viên tốt nghiệp đại học có việc làm đạt trên 96%.",
+    "llm_answer": "Tỷ lệ sinh viên tốt nghiệp Trường Đại học Kinh tế có việc làm đạt trên 96%, cụ thể năm 2021 là 98.81%.\n"
+  },
+  {
+    "question": "Trường ĐHKT đã nhận được những huân chương nào?",
+    "answer": "Huân chương Lao động hạng Ba năm 1997, Huân chương Lao động hạng Nhì năm 2004, Huân chương Lao động hạng Ba năm 2022.",
+    "llm_answer": "Huân chương Lao động hạng Ba (1997, 2022), Huân chương Lao động hạng Nhì (2004), Bằng khen của Thủ tướng Chính phủ.\n"
+  },
+  {
+    "question": "Trường ĐHKT tiên phong trong chuyển đổi chương trình đào tạo nào?",
+    "answer": "Trường tiên phong trong chuyển đổi các chương trình đào tạo từ hệ chuẩn sang hệ chất lượng cao.",
+    "llm_answer": "Trường ĐHKT tiên phong trong chuyển đổi chương trình đào tạo từ hệ chuẩn sang hệ chất lượng cao và xây dựng chương trình đào tạo theo định mức kinh tế kỹ thuật.\n"
+  },
+  {
+    "question": "Logo Trường Đại học Kinh tế - ĐHQGHN gồm những yếu tố chính nào?",
+    "answer": "Biểu tượng hình chiếc khiên với các đường nét cách điệu và cụm chữ tên thương hiệu bằng tiếng Việt và tiếng Anh.",
+    "llm_answer": "Biểu tượng hình khiên cách điệu và cụm chữ tên thương hiệu bằng tiếng Việt \"Đại học Quốc gia Hà Nội, Trường Đại học Kinh tế\" cùng tiếng Anh \"VNU University of Economics and Business\".\n"
+  },
+  {
+    "question": "UEB, VNU, và COE là viết tắt của những cụm từ nào?",
+    "answer": "UEB: University of Economics and Business; VNU: Vietnam National University, Hanoi; COE: Center of Excellence.",
+    "llm_answer": "UEB: VNU University of Economics and Business\nVNU: Vietnam National University, Hanoi\nCOE: Center of excellence\n"
+  },
+  {
+    "question": "Những hành động nào được xem là sử dụng sai logo của Trường Đại học Kinh tế - ĐHQGHN?",
+    "answer": "Thay đổi màu logo, thay đổi kích thước, đặt lệch, lược bớt thành phần, thiết kế lại, bóp méo, xô nghiêng, xoay, lộn ngược, tạo hiệu ứng tách nền, đặt logo trên nền cùng màu.",
+    "llm_answer": "Sử dụng sai logo: thay đổi màu, thay đổi tương quan kích thước, đặt lệch, lược bớt thành phần, thiết kế lại, bóp dẹt/dị dạng, xô nghiêng logo.\n"
+  },
+  {
+    "question": "Tỷ lệ sinh viên tốt nghiệp năm 2021 của Trường Đại học Kinh tế có việc làm là bao nhiêu?",
+    "answer": "98.81%",
+    "llm_answer": "98.81% sinh viên tốt nghiệp năm 2021 của Trường Đại học Kinh tế có việc làm.\n"
+  },
+  {
+    "question": "ĐHQGHN xếp thứ mấy trong bảng xếp hạng đại học thế giới QS Sustainability 2025?",
+    "answer": "ĐHQGHN xếp thứ 325 thế giới trong bảng xếp hạng QS Sustainability 2025.",
+    "llm_answer": "ĐHQGHN xếp thứ 325 trong bảng xếp hạng QS Sustainability 2025.\n"
+  },
+  {
+    "question": "Bảng xếp hạng QS WUR Sustainability đánh giá các trường đại học dựa trên những tiêu chí nào?",
+    "answer": "Bảng xếp hạng QS WUR Sustainability đánh giá dựa trên Tác động Môi trường, Tác động Xã hội và Quản trị Tốt.",
+    "llm_answer": "QS WUR Sustainability đánh giá dựa trên cam kết và tác động của trường đối với phát triển bền vững qua nghiên cứu, giảng dạy, phục vụ cộng đồng, tác động môi trường, xã hội. QS AUR 2025 đánh giá theo 11 chỉ số.\n"
+  },
+  {
+    "question": "Tiêu chí nào của ĐHQGHN được xếp hạng cao nhất trong QS Sustainability 2025?",
+    "answer": "Tiêu chí Quản trị tốt của ĐHQGHN được xếp hạng cao nhất, vị trí 204 thế giới.",
+    "llm_answer": "Giáo dục về môi trường (xếp hạng 350 thế giới) thuộc tiêu chuẩn Tác động Môi trường.\n"
+  },
+  {
+    "question": "ĐHQGHN đã đầu tư vào những lĩnh vực nghiên cứu bền vững nào?",
+    "answer": "ĐHQGHN đầu tư vào biến đổi khí hậu, năng lượng sạch và bảo tồn đa dạng sinh học.",
+    "llm_answer": "Biến đổi khí hậu, năng lượng sạch, bảo tồn đa dạng sinh học, giáo dục về môi trường, nghiên cứu về môi trường, tuyển dụng và kết quả đầu ra, bình đẳng, sức khỏe và cuộc sống hạnh phúc, ảnh hưởng về giáo dục, chia sẻ kiến thức và quản trị tốt.\n"
+  },
+  {
+    "question": "ĐHQGHN đã tăng bao nhiêu bậc so với năm 2024 trong bảng xếp hạng QS Sustainability?",
+    "answer": "ĐHQGHN đã tăng 456 bậc so với năm 2024.",
+    "llm_answer": "ĐHQGHN đã tăng 456 bậc so với năm 2024 trong bảng xếp hạng QS Sustainability.\n"
+  },
+  {
+    "question": "ĐHQGHN xếp hạng bao nhiêu về Giáo dục về môi trường?",
+    "answer": "ĐHQGHN xếp hạng 350 thế giới về Giáo dục về môi trường.",
+    "llm_answer": "ĐHQGHN xếp hạng 350 thế giới về Giáo dục về môi trường.\n"
+  },
+  {
+    "question": "Trong bảng xếp hạng QS ASIA 2025, ĐHQGHN xếp thứ mấy?",
+    "answer": "ĐHQGHN xếp thứ 161 trong bảng xếp hạng QS ASIA 2025.",
+    "llm_answer": "Trong bảng xếp hạng QS ASIA 2025, ĐHQGHN xếp thứ 161.\n"
+  },
+  {
+    "question": "So với QS AUR 2024, ĐHQGHN tăng bao nhiêu bậc trong QS AUR 2025?",
+    "answer": "ĐHQGHN tăng 26 bậc so với QS AUR 2024.",
+    "llm_answer": "ĐHQGHN tăng 26 bậc trong QS AUR 2025 so với QS AUR 2024.\n"
+  },
+  {
+    "question": "QS AUR 2025 dựa trên bao nhiêu tiêu chí để xếp hạng các trường đại học?",
+    "answer": "QS AUR 2025 dựa trên 11 tiêu chí để xếp hạng các trường đại học.",
+    "llm_answer": "QS AUR 2025 dựa trên 11 tiêu chí để xếp hạng các trường đại học.\n"
+  },
+  {
+    "question": "Trong bảng xếp hạng THE WUR 2024, ĐHQGHN được xếp hạng ở nhóm nào?",
+    "answer": "ĐHQGHN được xếp hạng ở nhóm 1201-1500.",
+    "llm_answer": "ĐHQGHN được xếp hạng ở nhóm 1201-1500 trong bảng xếp hạng THE WUR 2024.\n"
+  },
+  {
+    "question": "Trong THE WUR 2024, ĐHQGHN đứng thứ mấy về tiêu chí Giảng dạy ở Việt Nam?",
+    "answer": "ĐHQGHN đứng thứ nhất về tiêu chí Giảng dạy ở Việt Nam.",
+    "llm_answer": "ĐHQGHN đứng thứ nhất về tiêu chí Giảng dạy ở Việt Nam.\n"
+  },
+  {
+    "question": "THE WUR 2024 sử dụng bao nhiêu tiêu chí đánh giá?",
+    "answer": "THE WUR 2024 sử dụng 18 tiêu chí đánh giá.",
+    "llm_answer": "THE WUR 2024 sử dụng 18 tiêu chí đánh giá.\n"
+  },
+  {
+    "question": "Có bao nhiêu CSGDĐH của Việt Nam được xếp hạng trong THE WUR 2024?",
+    "answer": "Có 6 CSGDĐH của Việt Nam được xếp hạng.",
+    "llm_answer": "6"
+  },
+  {
+    "question": "Top 5 cơ sở giáo dục đại học hàng đầu thế giới theo THE WUR 2024 là những trường nào?",
+    "answer": "Đại học Oxford, Đại học Stanford, Viện Khoa học kỹ thuật Massachusetts, Đại học Havard và Đại học Cambridge.",
+    "llm_answer": "Đại học Oxford, Đại học Stanford, Viện Khoa học kỹ thuật Massachusetts, Đại học Havard, Đại học Cambridge.\n"
+  },
+  {
+    "question": "Trong bảng xếp hạng THE Young UR 2023, ĐHQGHN được đánh giá cao nhất ở tiêu chí nào?",
+    "answer": "ĐHQGHN được đánh giá cao nhất ở tiêu chí Giảng dạy.",
+    "llm_answer": "Trong bảng xếp hạng THE Young UR 2023, ĐHQGHN được đánh giá cao nhất ở tiêu chí Giảng dạy (Teaching) với 23.7 điểm.\n"
+  },
+  {
+    "question": "Các tiêu chí xếp hạng của Webometrics là gì?",
+    "answer": "Webometrics đánh giá dựa trên mức độ ảnh hưởng (impact), độ mở về tài nguyên học thuật (openness) và chỉ số trích dẫn khoa học (excellence).",
+    "llm_answer": "Các tiêu chí xếp hạng của Webometrics là: Impact (50%) và Excellence (40%).\n"
+  },
+  {
+    "question": "Tổ chức nào công bố bảng xếp hạng QS World University Rankings 2024?",
+    "answer": "Tổ chức QS (Quacquarelli Symonds).",
+    "llm_answer": "Tổ chức xếp hạng QS (Quacquarelli Symonds).\n"
+  },
+  {
+    "question": "Trong QS WUR 2024, ĐHQGHN được đánh giá cao ở tiêu chí nào?",
+    "answer": "Uy tín tuyển dụng và Kết quả tuyển dụng.",
+    "llm_answer": "Trong QS WUR 2024, ĐHQGHN được đánh giá cao ở Uy tín tuyển dụng và Kết quả tuyển dụng. Uy tín tuyển dụng tăng 62 bậc, đạt vị trí 439.\n"
+  },
+  {
+    "question": "Trong QS WUR 2024, tiêu chí Uy tín tuyển dụng của ĐHQGHN tăng bao nhiêu bậc?",
+    "answer": "Tăng 62 bậc.",
+    "llm_answer": "Trong QS WUR 2024, tiêu chí Uy tín tuyển dụng của ĐHQGHN tăng 62 bậc.\n"
+  },
+  {
+    "question": "QS WUR 2024 đã bổ sung thêm bao nhiêu tiêu chí mới?",
+    "answer": "3 tiêu chí mới.",
+    "llm_answer": "QS WUR 2024 đã bổ sung 3 tiêu chí mới.\n"
+  },
+  {
+    "question": "Trong khu vực Đông Nam Á, quốc gia nào có nhiều cơ sở giáo dục đại học được xếp hạng nhất trong QS WUR 2023?",
+    "answer": "Malaysia.",
+    "llm_answer": "Malaysia\n"
+  },
+  {
+    "question": "Trong THE AUR 2023, ĐHQGHN xếp hạng trong nhóm nào?",
+    "answer": "Nhóm 351-400 châu Á.",
+    "llm_answer": "Trong THE AUR 2023, ĐHQGHN xếp hạng trong nhóm 351-400 châu Á.\n"
+  },
+  {
+    "question": "ĐHQGHN xếp thứ mấy về Giáo dục có chất lượng theo THE Impact Rankings 2023?",
+    "answer": "ĐHQGHN xếp thứ 70 thế giới về mục tiêu Giáo dục có chất lượng.",
+    "llm_answer": "ĐHQGHN xếp thứ 70 về Giáo dục có chất lượng theo THE Impact Rankings 2023.\n"
+  },
+  {
+    "question": "THE Impact Rankings đo lường điều gì?",
+    "answer": "Đo lường sự thành công của các trường đại học trong việc thực hiện 17 mục tiêu phát triển bền vững của Liên Hợp Quốc.",
+    "llm_answer": "THE Impact Rankings đo lường sự thành công của các trường đại học trong việc thực hiện 17 mục tiêu phát triển bền vững của Liên Hợp Quốc, đánh giá tầm ảnh hưởng và đóng góp của họ đối với xã hội, con người và môi trường.\n"
+  },
+  {
+    "question": "ĐHQGHN tham gia xếp hạng bao nhiêu SDGs trong kỳ xếp hạng THE Impact Rankings 2023?",
+    "answer": "ĐHQGHN tham gia xếp hạng tại 7 SDGs.",
+    "llm_answer": "Không có thông tin cụ thể về số lượng SDGs mà ĐHQGHN tham gia xếp hạng trong kỳ THE Impact Rankings 2023. Đoạn văn chỉ đề cập đến kết quả năm 2022 và thứ hạng chung năm 2023.\n"
+  },
+  {
+    "question": "Đề án giáo dục toàn diện cho sinh viên năm nhất ĐHQGHN Hòa Lạc bắt đầu từ khi nào?",
+    "answer": "Học kỳ I, năm học 2023-2024.",
+    "llm_answer": "Từ học kỳ I, năm học 2023-2024.\n"
+  },
+  {
+    "question": "Mô hình giáo dục toàn diện cho sinh viên năm nhất ĐHQGHN Hòa Lạc gồm những yếu tố nào?",
+    "answer": "Khỏe về thể chất, mạnh về tinh thần, giỏi về kỹ năng xã hội.",
+    "llm_answer": "Mô hình giáo dục toàn diện cho sinh viên năm nhất ĐHQGHN Hòa Lạc gồm: Khỏe về thể chất, mạnh về tinh thần và giỏi về kỹ năng xã hội. Tập trung vào đổi mới giáo dục thể chất, phát triển kỹ năng, tư duy, năng lực, phẩm chất cá nhân và nghề nghiệp, ứng dụng CNTT, văn hóa, tự học, sáng tạo và trách nhiệm.\n"
+  },
+  {
+    "question": "Sinh viên được đào tạo theo mô hình giáo dục toàn diện sẽ được rèn luyện những năng lực gì?",
+    "answer": "Năng lực công dân toàn cầu, năng lực số, năng lực thích ứng và năng lực đổi mới sáng tạo.",
+    "llm_answer": "Năng lực công dân toàn cầu, năng lực số, năng lực thích ứng. Rèn luyện thể chất, tinh thần, kỹ năng xã hội. Tư duy toàn cầu qua môn học quốc tế, giao lưu, thực tập nước ngoài.\n"
+  },
+  {
+    "question": "Chương trình giáo dục toàn diện tập trung vào mấy nội dung chính?",
+    "answer": "5 nội dung chính.",
+    "llm_answer": "Chương trình giáo dục toàn diện tập trung vào 5 nội dung chính: ngôn ngữ, quốc tế học, đổi mới dạy học ngoại ngữ, bồi dưỡng nghiệp vụ, kiểm tra đánh giá và công nghệ trong giáo dục.\n"
+  },
+  {
+    "question": "Học phần Giáo dục Thể chất cho sinh viên ĐHQGHN tại Hòa Lạc gồm bao nhiêu tín chỉ?",
+    "answer": "04 tín chỉ.",
+    "llm_answer": "Học phần Giáo dục Thể chất cho sinh viên ĐHQGHN tại Hòa Lạc gồm 04 tín chỉ.\n"
+  },
+  {
+    "question": "Chương trình đào tạo kỹ năng mềm cho sinh viên năm nhất tại Hòa Lạc tập trung vào điều gì?",
+    "answer": "Tăng cường trải nghiệm, kỹ năng sinh tồn, tự phục vụ, rèn luyện ý thức kỷ luật.",
+    "llm_answer": "Chương trình tập trung vào kiến thức cơ bản, tăng cường trải nghiệm, kỹ năng sinh tồn, tự sản xuất, kỷ luật, tư duy độc lập, quản lý thời gian, giao tiếp, xây dựng thương hiệu cá nhân, phát triển toàn diện về kỹ năng, thể chất, tư duy, năng lực, phẩm chất.\n"
+  },
+  {
+    "question": "Mục đích của tuần lễ hội nhập là gì?",
+    "answer": "Cung cấp thông tin cơ bản, giáo dục nhận thức, trang bị kỹ năng và định hướng nghề nghiệp cho sinh viên năm nhất.",
+    "llm_answer": "Cung cấp thông tin cơ bản về trường, giáo dục tư tưởng, đạo đức, lối sống, trang bị kiến thức văn hóa, kỹ năng giao tiếp, giúp sinh viên hiểu biết, hội nhập và sống có trách nhiệm.\n"
+  },
+  {
+    "question": "Giám đốc ĐHQGHN đã gửi thư chúc mừng ai nhân Ngày Khoa học và Công nghệ Việt Nam?",
+    "answer": "Các giáo sư, phó giáo sư, đội ngũ nhà khoa học, cán bộ quản lý KHCN trong toàn ĐHQGHN.",
+    "llm_answer": "Giáo sư, phó giáo sư, đội ngũ nhà khoa học, cán bộ quản lý KHCN trong toàn ĐHQGHN.\n"
+  },
+  {
+    "question": "Số lượng bài báo WoS/Scopus của ĐHQGHN năm 2022 là bao nhiêu?",
+    "answer": "Gần 1.509 bài, trong đó 572 bài thuộc top Q1.",
+    "llm_answer": "Số lượng bài báo WoS/Scopus của ĐHQGHN năm 2022 là gần 1509 bài.\n"
+  },
+  {
+    "question": "ĐHQGHN đã đạt được thành tựu gì trong các bảng xếp hạng thế giới?",
+    "answer": "Gia tăng thứ hạng, có những lĩnh vực trong nhóm 500 thế giới, top 1000 cơ sở giáo dục đại học tốt nhất thế giới của QS.",
+    "llm_answer": "ĐHQGHN vào top 1000 QS, tăng 97 bậc lên 661 trên Webometrics. U.S News & World Report xếp ĐHQGHN thứ 970 thế giới, 258 châu Á, lĩnh vực Kỹ thuật hạng 636. ĐHQGHN nhận giải thưởng cải tiến chất lượng của QS."
+  },
+  {
+    "question": "ĐHQGHN sẽ xây dựng đô thị đại học như thế nào tại Hòa Lạc?",
+    "answer": "Đô thị đại học đổi mới sáng tạo, xanh, thông minh và bền vững hàng đầu khu vực.",
+    "llm_answer": "ĐHQGHN xây dựng đô thị đại học Hòa Lạc theo mô hình đại học thông minh, đại học xanh, đồng bộ cơ sở vật chất, hiện đại trang thiết bị. Đề án giáo dục toàn diện cho sinh viên năm nhất, tạo không gian phát triển câu lạc bộ, nâng cao chất lượng đào tạo, tạo môi trường học tập tiện nghi, hỗ trợ sinh viên.\n"
+  },
+  {
+    "question": "Bảng xếp hạng QS by Subject 2023 đánh giá bao nhiêu cơ sở giáo dục đại học?",
+    "answer": "Bảng xếp hạng đánh giá 1594 cơ sở giáo dục đại học thuộc 85 khu vực.",
+    "llm_answer": "1561 cơ sở giáo dục đại học.\n"
+  },
+  {
+    "question": "Hai lĩnh vực nào của ĐHQGHN duy trì được vị trí xếp hạng trong QS WUR by Subject 2023?",
+    "answer": "Khoa học máy tính và Hệ thống thông tin, Toán học.",
+    "llm_answer": "Kỹ thuật và Công nghệ, Khoa học Tự nhiên.\n"
+  },
+  {
+    "question": "Trong QS WUR by Subject 2023, lĩnh vực Toán học của ĐHQGHN xếp hạng bao nhiêu?",
+    "answer": "Top 351-400.",
+    "llm_answer": "Top 351-400.\n"
+  },
+  {
+    "question": "ĐHQGHN duy trì vị thế số 1 Việt Nam ở những lĩnh vực nào trong QS WUR by Subject 2023?",
+    "answer": "Vật lý và Thiên văn học; Kinh doanh và Khoa học quản lý.",
+    "llm_answer": "Vật lý và Thiên văn học, Kinh doanh và Khoa học quản lý, Khoa học Tự nhiên.\n"
+  },
+  {
+    "question": "Nhóm lĩnh vực nào của ĐHQGHN được xếp số 1 tại Việt Nam trong QS WUR by Subject 2023?",
+    "answer": "Khoa học Tự nhiên.",
+    "llm_answer": "Khoa học Tự nhiên\n"
+  },
+  {
+    "question": "Trường Đại học Kinh tế (UEB) đóng góp vào vị thế của ĐHQGHN trong lĩnh vực nào?",
+    "answer": "Kinh tế, Kinh doanh.",
+    "llm_answer": "Kinh tế, Kinh doanh, Khoa học quản lý."
+  },
+  {
+    "question": "ĐHQGHN xếp thứ mấy trong Bảng xếp hạng Đại học Việt Nam (VNUR) năm 2023?",
+    "answer": "ĐHQGHN đứng số 1 trong Bảng xếp hạng Đại học Việt Nam (VNUR) năm 2023.",
+    "llm_answer": "ĐHQGHN xếp thứ 1 trong Bảng xếp hạng Đại học Việt Nam (VNUR) năm 2023.\n"
+  },
+  {
+    "question": "VNUR đánh giá các trường đại học dựa trên bao nhiêu tiêu chuẩn?",
+    "answer": "VNUR đánh giá dựa trên 6 tiêu chuẩn.",
+    "llm_answer": "VNUR đánh giá các trường đại học dựa trên 6 tiêu chuẩn.\n"
+  },
+  {
+    "question": "Mục đích của VNUR là gì?",
+    "answer": "Mục đích của VNUR là định hướng cho học sinh, phụ huynh lựa chọn đại học phù hợp.",
+    "llm_answer": "Định hướng chọn trường đại học phù hợp cho học sinh, phụ huynh. Công cụ để doanh nghiệp, trường đại học đánh giá, liên kết, hợp tác. Cung cấp thông tin đáng tin cậy, dễ hiểu về các trường đại học Việt Nam.\n"
+  },
+  {
+    "question": "Lĩnh vực Kinh doanh & Khoa học quản lý của UEB xếp hạng bao nhiêu theo QS WUR năm 2022?",
+    "answer": "Lĩnh vực Kinh doanh & Khoa học quản lý của UEB thuộc top 451-500 theo QS WUR năm 2022.",
+    "llm_answer": "Top 451-500.\n"
+  },
+  {
+    "question": "Trong Bảng xếp hạng THE, lĩnh vực đào tạo và quản lý của Trường Đại học Kinh tế (UEB) xếp hạng bao nhiêu năm 2023?",
+    "answer": "Trong Bảng xếp hạng THE năm 2023, lĩnh vực đào tạo và quản lý của Trường Đại học Kinh tế (UEB) vào top 501-600.",
+    "llm_answer": "Top 501-600 thế giới theo THE WUR by Subject 2023 trong lĩnh vực Kinh tế và Kinh doanh.\n"
+  },
+  {
+    "question": "ĐHQGHN xếp thứ mấy ở Việt Nam trong bảng xếp hạng Webometrics tháng 1/2023?",
+    "answer": "ĐHQGHN tiếp tục giữ vị trí số 1 Việt Nam.",
+    "llm_answer": "ĐHQGHN xếp thứ 1 ở Việt Nam.\n"
+  },
+  {
+    "question": "Trong bảng xếp hạng Webometrics tháng 1/2023, ĐHQGHN tăng bao nhiêu bậc so với tháng 8/2022?",
+    "answer": "ĐHQGHN tăng 97 bậc, từ 758 lên 661 thế giới.",
+    "llm_answer": "ĐHQGHN tăng 97 bậc.\n"
+  },
+  {
+    "question": "Webometrics đánh giá năng lực gì của các cơ sở giáo dục đại học?",
+    "answer": "Webometrics đánh giá năng lực chuyển đổi số và sự xuất sắc về công bố quốc tế.",
+    "llm_answer": "Webometrics đánh giá năng lực số hóa, mức độ lan tỏa, ảnh hưởng tài nguyên học thuật, và sự xuất sắc về công bố quốc tế của cơ sở giáo dục đại học.\n"
+  },
+  {
+    "question": "Chỉ số Impact trong Webometrics đo lường điều gì?",
+    "answer": "Đo lường mức độ lan toả của website và nguồn tài nguyên số.",
+    "llm_answer": "Chỉ số Impact trong Webometrics đo lường mức độ lan tỏa của website và nguồn tài nguyên số của cơ sở giáo dục đại học.\n"
+  },
+  {
+    "question": "Chỉ số Excellence trong Webometrics đo lường điều gì?",
+    "answer": "Đo lường trong 10% số bài báo được trích dẫn nhiều nhất trong 27 lĩnh vực xuất bản của Scopus.",
+    "llm_answer": "Chỉ số Excellence trong Webometrics đo lường số lượng bài báo nằm trong top 10% được trích dẫn nhiều nhất trên Scopus.\n"
+  },
+  {
+    "question": "Trong bảng xếp hạng THE, ĐHQGHN có bao nhiêu lĩnh vực được xếp hạng năm 2022?",
+    "answer": "ĐHQGHN có 6 lĩnh vực được xếp hạng.",
+    "llm_answer": "Năm 2022, ĐHQGHN có 6 lĩnh vực được xếp hạng.\n"
+  },
+  {
+    "question": "Lĩnh vực nào của ĐHQGHN được THE xếp hạng trong top 501-600 năm 2023?",
+    "answer": "Lĩnh vực Kinh doanh và Kinh tế.",
+    "llm_answer": "Kinh doanh và Kinh tế. Giáo dục.\n"
+  },
+  {
+    "question": "Theo U.S News & World Report, ĐHQGHN xếp thứ mấy trên thế giới?",
+    "answer": "ĐHQGHN xếp thứ 970 trên thế giới.",
+    "llm_answer": "Theo U.S News & World Report, ĐHQGHN xếp thứ 970 trên thế giới.\n"
+  },
+  {
+    "question": "Ông Johnathan Hạnh Nguyễn khuyên sinh viên nên học như thế nào?",
+    "answer": "Ông khuyên sinh viên nên phát triển tư duy, sáng tạo thay vì học thuộc lòng như trước đây.",
+    "llm_answer": "Học thuộc bài giảng bằng cách nghe giảng nhiều lần, thu thập kiến thức, chấp nhận đổi mới, sáng tạo, không học theo lối cũ. Tận dụng thời gian đại học, tập trung học trên giảng đường ít nhất 80%.\n"
+  },
+  {
+    "question": "Ông Johnathan Hạnh Nguyễn chia sẻ điều gì về việc học đại học?",
+    "answer": "Ông khuyên sinh viên tận dụng tốt thời gian học đại học, tập trung học nhưng cũng cần giải trí.",
+    "llm_answer": "Ông Johnathan Hạnh Nguyễn khuyên sinh viên tận dụng thời gian đại học, tập trung học ít nhất 80% thời gian trên giảng đường, chấp nhận tư duy đổi mới, sáng tạo, không học theo lối cũ.\n"
+  },
+  {
+    "question": "Theo ông Johnathan Hạnh Nguyễn, thời đại ngày nay là thời đại của ai?",
+    "answer": "Ông cho rằng thời đại này không phải của mọt sách mà là của sinh viên.",
+    "llm_answer": "Theo ông Johnathan Hạnh Nguyễn, thời đại ngày nay là thời đại của các bạn sinh viên.\n"
+  },
+  {
+    "question": "Bà Lê Hồng Thủy Tiên nhấn mạnh điều gì về kỹ năng của sinh viên?",
+    "answer": "Bà nhấn mạnh tầm quan trọng của ngoại ngữ, tin học và đặc biệt là khả năng sử dụng AI.",
+    "llm_answer": "Bà Lê Hồng Thủy Tiên nhấn mạnh sinh viên cần trang bị ngoại ngữ, tin học, cập nhật xu hướng và đặc biệt là khả năng dùng AI. Bà cũng cho rằng nhà trường cần hướng sinh viên theo đuổi lĩnh vực AI chưa thể thay thế.\n"
+  },
+  {
+    "question": "Ông Johnathan Hạnh Nguyễn đã hỗ trợ những trung tâm nào liên quan đến AI?",
+    "answer": "Ông đã hỗ trợ hai trung tâm về AI và Robotics ở Đà Lạt và TP HCM.",
+    "llm_answer": "Ông Johnathan Hạnh Nguyễn đã hỗ trợ hai trung tâm về AI và Robotics ở Đà Lạt và TP HCM.\n"
+  },
+  {
+    "question": "Tỷ phú Johnathan Hạnh Nguyễn chia sẻ điều gì sau khi nhận quà của sinh viên?",
+    "answer": "Ông chia sẻ rằng món quà là 'liều thuốc duy nhất' giúp ông trị bệnh mất ngủ.",
+    "llm_answer": "Ông chia sẻ cuốn lưu bút là liều thuốc duy nhất giúp ông trị bệnh mất ngủ. Ông cũng nói về trách nhiệm với đất nước và thế hệ trẻ quan trọng hơn việc kiếm tiền.\n"
+  },
+  {
+    "question": "Sinh viên đã tặng tỷ phú Johnathan Hạnh Nguyễn món quà gì?",
+    "answer": "Sinh viên tặng ông cuốn lưu bút với hàng trăm chia sẻ.",
+    "llm_answer": "Cuốn lưu bút với hàng trăm chia sẻ từ sinh viên.\n"
+  },
+  {
+    "question": "Tỷ phú Johnathan Hạnh Nguyễn cam kết điều gì với nhà trường?",
+    "answer": "Ông cam kết phối hợp với nhà trường trong đào tạo và tìm kiếm tài năng, tạo cơ hội thực tập/làm việc cho sinh viên.",
+    "llm_answer": "Phối hợp đào tạo, tìm kiếm tài năng. Sinh viên sắp ra trường có cơ hội thực tập hoặc làm việc tại tập đoàn của ông.\n"
+  },
+  {
+    "question": "Tỷ phú Johnathan Hạnh Nguyễn nhắn nhủ sinh viên điều gì quan trọng?",
+    "answer": "Ông nhắn nhủ sinh viên phải luôn tuân thủ quy trình và quy định của nhà nước để 'ăn no ngủ yên'.",
+    "llm_answer": "Tỷ phú Johnathan Hạnh Nguyễn nhắn nhủ sinh viên phải luôn tuân thủ quy trình và quy định của nhà nước để \"ăn no ngủ yên\", dù thành công đến đâu. Ông cũng nhấn mạnh trách nhiệm với đất nước quan trọng hơn việc kiếm tiền.\n"
+  },
+  {
+    "question": "Ông Johnathan Hạnh Nguyễn đánh giá về vai trò của AI như thế nào?",
+    "answer": "Ông cho rằng AI là trụ cột phát triển bền vững và có thể thay thế con người nếu không thích ứng.",
+    "llm_answer": "Ông Johnathan Hanh Nguyen đánh giá AI là trụ cột phát triển bền vững, hiện thực đang xảy ra và có khả năng thay thế con người nếu không thích ứng nhanh.\n"
+  }
+]

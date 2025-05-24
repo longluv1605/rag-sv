@@ -1,7 +1,7 @@
 import os
 import json
 
-RESULTS_FILE = 'results/results.json'
+RESULTS_DIR = 'results'
 DATA_DIR = 'data'
 SYSTEM_OUTPUTS_DIR = 'system_outputs'
 
@@ -31,18 +31,20 @@ def convert(answer_set, split, data_dir, system_outputs_dir):
         answers.append(ref_ans)
         llm_answers.append(llm_ans)
         
-    with open(question_file, 'w', encoding='utf-8') as f:
+    with open(question_file, 'a', encoding='utf-8') as f:
         f.write(''.join(questions))
-    with open(ref_answer_file, 'w', encoding='utf-8') as f:
+    with open(ref_answer_file, 'a', encoding='utf-8') as f:
         f.write(''.join(answers))
-    with open(system_outputs_file, 'w', encoding='utf-8') as f:
+    with open(system_outputs_file, 'a', encoding='utf-8') as f:
         f.write(''.join(llm_answers))
     print('All done.')
 
 def main():
-	train_set, test_set = load_results(RESULTS_FILE)
-	convert(train_set, 'train', DATA_DIR, SYSTEM_OUTPUTS_DIR)
-	convert(test_set, 'test', DATA_DIR, SYSTEM_OUTPUTS_DIR)
+    results_files = [os.path.join(RESULTS_DIR, f_name) for f_name in os.listdir(RESULTS_DIR)] 
+    for results_file in results_files:
+        train_set, test_set = load_results(results_file)
+        convert(train_set, 'train', DATA_DIR, SYSTEM_OUTPUTS_DIR)
+        convert(test_set, 'test', DATA_DIR, SYSTEM_OUTPUTS_DIR)
 
 if __name__ == '__main__':
     main()
