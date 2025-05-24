@@ -1,13 +1,13 @@
 import json
 import time
 
-from config import QA_FILE, RESULTS_FILE
+from src.config import QA_FILE, RESULTS_FILE
 from src.llm import get_answer, load_llm
 from src.vectordb import create_vector_store, load_vector_db
 from src.evaluate import evaluate
 
 def test_qa_set(qa_file, db, llm, results_file='results.json'):
-    with open(QA_FILE, 'r', encoding='utf-8') as f:
+    with open(qa_file, 'r', encoding='utf-8') as f:
         qa_pairs = json.load(f)
 
     results = []

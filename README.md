@@ -23,6 +23,8 @@
 - Tạo vectordb bằng lệnh `python prepare_vectordb.py`.
 - Chạy thử nghiệm RAG `python run_rag.py`.
 
+Vì file kết quả ở dạng json và chứa các bộ gồm Q/A/LLM_A nên bạn có thể chạy `python convert_results.py` để chuyển sang định dạng các file txt cho từng thành phần.
+
 ### 2.2. Tham khảo các notebook
 
 - Notebook `test-rag-pipeline.ipynb` ghi lại quá trình tạo database, chuẩn bị LLMs, tạo câu trả lời và đánh giá chất lượng.
